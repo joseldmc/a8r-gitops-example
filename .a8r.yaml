@@ -3,3 +3,7 @@ k8s_config:
   cluster_info:
     cluster_id: 9f880b85-001e-5b85-83fc-a0bdaa0b4288
     cluster_name: demo-staging-46257b8a-ce8e-4f26-a121-7b7ccc68c2d1
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 8eb0274d-bf90-5edf-aa62-d38afd65af44
+    cluster_name: ClusterOne
